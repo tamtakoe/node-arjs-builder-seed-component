@@ -1,0 +1,9 @@
+<div class="container">
+    <a ng-href="{{$ctrl.user.html_url}}"><h3>#{{$ctrl.user.id}} {{$ctrl.user.login}}</h3></a>
+    <img ng-src="{{$ctrl.user.avatar_url}}">
+
+    <div class="alert alert-danger"
+         ng-if="$ctrl.error">
+        <strong>{{$ctrl.error.statusText}}:</strong> {{$ctrl.error.message}}
+    </div>
+</div>

@@ -1,0 +1,5 @@
+public:
+  resources:
+    api:
+      host: '//api.github.com'
+      info: '//api.github.com/version'
