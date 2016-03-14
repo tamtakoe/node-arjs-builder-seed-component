@@ -2,7 +2,7 @@ define([
 
     'app',
 
-    'main/common/components/flashMessage/config',
+    'main/common/components/flashMessage/index',
 
     'main/common/services/router',
     'main/common/services/api/resource',

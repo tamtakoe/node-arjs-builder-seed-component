@@ -7,6 +7,6 @@
     },
     "devDependencies": {
         "gulp": "^3.9.0",
-        "arjs-builder": "^0.0.11"
+        "arjs-builder": "^0.0.13"
     }
 }

@@ -2,9 +2,9 @@ define([
 
     'app',
 
-    'main/homepage/components/list/config',
-    'main/homepage/components/user/config',
-    'main/homepage/components/header/config',
+    'main/homepage/components/list/index',
+    'main/homepage/components/user/index',
+    'main/homepage/components/header/index',
 
     'main/homepage/resources/users'
 

@@ -2,11 +2,11 @@ define([
 
     'app',
 
-    'main/common/config',
-    'main/homepage/config',
-    'main/contacts/config',
-    'main/not-found/config',
-    'main/web-analytics/config'
+    'main/common/index',
+    'main/homepage/index',
+    'main/contacts/index',
+    'main/not-found/index',
+    'main/web-analytics/index'
 
 ], function() {
     'use strict';

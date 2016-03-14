@@ -2,7 +2,7 @@ define([
 
     'app',
 
-    'admin/common/config'
+    'admin/common/index'
 
 ], function() {
     'use strict';
